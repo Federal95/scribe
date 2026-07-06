@@ -1,0 +1,18 @@
+# Environnement virtuel
+venv/
+
+# Variables d'environnement
+.env
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Fichiers de VS Code
+.vscode/
+
+# Fichiers de PyCharm
+.idea/
+
+# Dossier des comptes rendus
+outputs/
